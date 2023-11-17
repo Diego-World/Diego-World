@@ -3,7 +3,7 @@
 
 - 🎓 I'm graduated as Software Analysis and Development at Paulista University ( UNIP )
 
-- 📚 I’m continuing working with **Java, Spring and Clean Arch** in Alura
+- 📚 I’m continuing working with **Java, Spring and Clean Arch**.
 
 - 📫 Reach me **contato.diegogouveia@gmail.com**
 
