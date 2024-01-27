@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Diego Gouveia</h1>
 <h3 align="center">Back-end developer living São Paulo, Brazil.</h3>
 
-- 🎓 I'm graduated as Software Analysis and Development at Paulista University ( UNIP )
+- 🎓 Formado em análise e desenvolvimento de sistemas pela Universidade Paulista
+- 🎓 Cursando Desenvolvimento de software Multiplataforma pela Fatec
 
-- 📚 I’m continuing working with **Java, Spring and Clean Arch**.
+- 📚 Desenvolvo principalmente em Java / Spring e arranho no front-end.
 
 - 📫 Reach me **contato.diegogouveia@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Vamos conversar:</h3>
 <div> 
   <a href="https://www.linkedin.com/in/techdiegogouveia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Diego-World" />
