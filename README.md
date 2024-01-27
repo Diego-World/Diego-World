@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diego Gouveia</h1>
-<h3 align="center">Back-end developer living São Paulo, Brazil.</h3>
+<h1 align="center">Olá 👋, Eu sou o Diego</h1>
+<h3 align="center">Back-end developer morando em São Paulo</h3>
 
 - 🎓 Formado em análise e desenvolvimento de sistemas pela Universidade Paulista
 - 🎓 Cursando Desenvolvimento de software Multiplataforma pela Fatec
