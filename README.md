@@ -4,8 +4,6 @@
 - 🎓 Formado em análise e desenvolvimento de sistemas pela Universidade Paulista
 - 🎓 Cursando Desenvolvimento de software Multiplataforma pela Fatec
 
-- 📚 Desenvolvo principalmente em Java / Spring e arranho no front-end.
-
 - 📫 Reach me **contato.diegogouveia@gmail.com**
 
 <h3 align="left">Vamos conversar:</h3>
@@ -26,6 +24,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Diego-World" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Diego-World" />
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Diego-World" />
+	
 </p>
 
 <div align="center">
