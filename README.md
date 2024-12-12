@@ -2,7 +2,6 @@
 <h3 align="center">Back-end developer morando em São Paulo</h3>
 
 - 🎓 Formado em análise e desenvolvimento de sistemas pela Universidade Paulista
-- 🎓 Cursando Desenvolvimento de software Multiplataforma pela Fatec
 
 - 📫 Reach me **contato.diegogouveia@gmail.com**
 
